@@ -1,2 +1,2 @@
 # SimpleCalculator
-Simple console app calculator version 1.0.0
+Simple console app calculator v1.0.0
